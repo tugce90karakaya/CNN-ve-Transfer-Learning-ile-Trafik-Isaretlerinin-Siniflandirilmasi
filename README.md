@@ -37,7 +37,7 @@ Amaç, **Traffic Signs Preprocessed** veri seti üzerinde **CNN tabanlı bir der
 
 
 ## 🔗 Kaggle Notebook Linki
-👉 [Kaggle Notebook](KENDİ_LINKİNİ_EKLE)  
+👉 https://www.kaggle.com/code/tuekarakaya/cnn-le-trafik-aretlerini-s-n-fland-rma
 
 ---
 
